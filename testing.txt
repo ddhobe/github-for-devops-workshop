@@ -8,3 +8,8 @@
    8 git status
    9 git commit -m "staged to track"
   10 git status
+
+
+  clone
+  fork
+  sync repo
