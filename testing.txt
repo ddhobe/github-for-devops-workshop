@@ -1,0 +1,10 @@
+ 1 try { . "c:\Users\Avinash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1...} 
+   2 python testing.py
+   3 python testing.py
+   4 git init
+   5 git status
+   6 git add testing.js
+   7 "git add testing.js"
+   8 git status
+   9 git commit -m "staged to track"
+  10 git status
